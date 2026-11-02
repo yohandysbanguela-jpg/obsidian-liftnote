@@ -1,0 +1,10 @@
+{
+  "id": "liftnote",
+  "name": "Liftnote",
+  "version": "1.0.0",
+  "minAppVersion": "1.5.0",
+  "description": "Registro de entrenamientos estilo app moderna: rutinas, series, descanso, historial y calendario. Optimizado para móvil e iPhone.",
+  "author": "Yohandys",
+  "authorUrl": "https://github.com/yohandysbanguela-jpg",
+  "isDesktopOnly": false
+}
